@@ -1,0 +1,1 @@
+/home/zhengmh/Projects/EMB/data/dataset/charades/charades_sta_train_psudo.txt
